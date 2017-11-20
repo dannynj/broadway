@@ -1,7 +1,7 @@
 
 /* HTML selectors */
 html {
-  /* background-color: white; */
+  background-color: white;
   font-family: Helvetica, sans-serif;
   text-align: center;
 }
@@ -12,12 +12,7 @@ h1 {
   color: black;
 }
 
-
-
-
-
-
 /* classes */
-.bd_header {
-  background-image: url(resources/images/the-flatiron-building.png);
+.bd_top {
+  background-image: url("../images/the-flatiron-building.png");
 }
