@@ -37,16 +37,18 @@ a:visited {
 
 /* added hover selector for enhanced navigation, especially for footer links */
 a:hover {
-  background-color: brown;
+  background-color: #b22222;
 }
 
 /* classes */
+/* top div */
 .bd_top {
   background-image: url("../images/the-flatiron-building.png");
 }
 
+/* sets font size for process div */
 .process p {
-  font-size: 14px;
+  font-size: 14;
 }
 
 .foot {
@@ -56,9 +58,8 @@ a:hover {
   text-align: left;
 }
 
+/* sets background image and color for "Designed in NY" bar */
 .design_bar {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
-   /*font-size: 23px;
-  font-weight: bold; */
 }
