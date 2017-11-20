@@ -1,0 +1,23 @@
+
+/* HTML selectors */
+html {
+  /* background-color: white; */
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: black;
+}
+
+
+
+
+
+
+/* classes */
+.bd_header {
+  background-image: url(resources/images/the-flatiron-building.png);
+}
