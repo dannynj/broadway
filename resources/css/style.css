@@ -35,6 +35,10 @@ a:visited {
   color: white;
 }
 
+/* added hover selector for enhanced navigation, especially for footer links */
+a:hover {
+  background-color: brown;
+}
 
 /* classes */
 .bd_top {
