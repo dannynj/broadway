@@ -44,3 +44,10 @@ a:visited {
 .process p {
   font-size: 14px;
 }
+
+.foot {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
